@@ -25,6 +25,8 @@ This is the backend of an e-commerce website for motorbikes, built using Express
 - **Database:** MongoDB
 - **Hosting:** Vercel (Free Deployment)
 
+## Live link for backend is here [https://assignment-4-backend-beige.vercel.app/](Visit the live site)
+
 ## How to run the server locally
 
 > You need to create a .env file in the root directory and provide some credentials. They are `DATABASE_CONNECTION_STRING`, `PORT`, `NODE_ENV`, `SALT_ROUNDS`, `JWT_SECRET`, `JWT_EXPIRY`, `SP_ENDPOINT`, `SP_USERNAME`,`SP_PASSWORD`,`SP_PREFIX`,`SP_RETURN_URL`,`DB_FILE`.You need `nodemon` installed in your system to run the server locally. From the root directory of the project, run the command`npm start` and the server is live in your system.
