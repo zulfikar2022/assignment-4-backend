@@ -22,7 +22,7 @@ This is the backend of an e-commerce website for motorbikes, built using Express
 
 - **Backend Framework:** Express.js
 - **Language:** TypeScript
-- **Database:** MongoDB (or your preferred database)
+- **Database:** MongoDB
 - **Hosting:** Vercel (Free Deployment)
 
 ## How to run the server locally
